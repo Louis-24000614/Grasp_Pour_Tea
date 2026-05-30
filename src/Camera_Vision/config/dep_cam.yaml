@@ -1,0 +1,13 @@
+/**:
+  ros__parameters:
+    raw_topic: vision/raw
+    depth_topic: vision/depth
+    cloud_topic: vision/cloud
+    frame_id: camera_link
+    queue_size: 10
+    publish_hz: 1.0
+    color_width: 1280
+    color_height: 720
+    depth_width: 1280
+    depth_height: 720
+    fps: 30
